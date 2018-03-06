@@ -22,7 +22,7 @@ contract Crowdsale {
   // token address
 
   address public addressOfTokenUsedAsReward;
-  uint256 public price = 300;
+  uint256 public price = 2450;
   token tokenReward;
 
   // mapping (address => uint) public contributions;
